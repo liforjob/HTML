@@ -1,0 +1,11 @@
+.overview{
+    size: 20%;
+    margin-left: 2%;
+    margin-right:2%;
+    border:5px solid purple
+}
+.screenshorts{
+    size: 40%;
+    align-self: center;
+
+}
